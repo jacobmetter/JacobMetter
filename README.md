@@ -51,5 +51,7 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Honeypot Project
+- Configuring Two Offices Project
+- Netmiko Automation Project
+- Paramiko Automation Project
