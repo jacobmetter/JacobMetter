@@ -10,7 +10,7 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="(https://github.com/jacobmetter/Honeypot-Project)">Honeypot Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jacobmetter/Honeypot-Project">Honeypot Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jacobmetter/Honeypot-Project">Honeypot Lab</a>|
 | Network Automation with Python                | <a href="https://github.com/jacobmetter/Netmiko-Automationt">Paramiko and Netmiko Automation Labs</a>|
 | VLAN Segmentation                             | <a href="https://github.com/jacobmetter/Configuring-Two-Offices?tab=readme-ov-file#vlans">Configuring Two Offices Project</a>|
