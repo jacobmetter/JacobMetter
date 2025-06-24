@@ -35,7 +35,7 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-brightgreen?style=for-the-badge&logo=splunk&logoColor=black" />
 </div>
 
 ## Certifications
