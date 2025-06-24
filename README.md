@@ -18,7 +18,6 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 | SIEM usage for parsing data and identifying threats | <a href="https://github.com/jacobmetter/Honeypot-Project">Honeypot Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -40,7 +39,6 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
@@ -52,3 +50,4 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
 - Configuring Two Offices Project
 - Netmiko Automation Project
 - Paramiko Automation Project
+- Windows Active Directory Project
