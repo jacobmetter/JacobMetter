@@ -38,6 +38,12 @@ Throughout my time in the Army, I developed a passion for computers, netowrks, a
     <img src="https://img.shields.io/badge/Splunk-brightgreen?style=for-the-badge&logo=splunk&logoColor=black" />
 </div>
 
+### Programming Language
+<div>
+    <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=yellow" /></a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" /></a>
+</div>
+
 ## Certifications
 <div>
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
