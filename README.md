@@ -4,7 +4,7 @@
 I am a U.S. Army veteran who served 4 years in the Army. I currently work as a project manager with a passion for IT and cybersecurity. I am currently completing my M.S. in Cybersecurity at NYU. I love solving complex problems and learning new things everyday.
 
 ## Objective
-Throughout my time in the Army, I developed a passion for computers, netowrks, and cybersecurity. I am eager to take my leadership abilities along with my skills I have learned in IT and cybersecurity to transition into this field. Specifically, I am looking for a role as a Network Engineer or Security Operations Center Analyst.
+Throughout my time in the Army, I developed a passion for computers, networks, and cybersecurity. I am eager to take my leadership abilities along with my skills I have learned in IT and cybersecurity to transition into this field. Specifically, I am looking for a role as a Network Engineer or Security Operations Center Analyst.
 
 ## Skills
 
