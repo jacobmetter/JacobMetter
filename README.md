@@ -16,6 +16,8 @@ Throughout my time in the Army, I developed a passion for computers, networks, a
 | VLAN Segmentation                             | <a href="https://github.com/jacobmetter/Configuring-Two-Offices?tab=readme-ov-file#vlans">Configuring Two Offices Project</a>|
 | Static and Dynamic Routing                    | <a href="https://github.com/jacobmetter/Configuring-Two-Offices?tab=readme-ov-file#step-6-static-and-dynamic-routing">Configuring Two Offices Project</a>|
 | SIEM usage for parsing data and identifying threats | <a href="https://github.com/jacobmetter/Honeypot-Project">Honeypot Lab</a>|
+| Windows Active Directory| <a href="https://github.com/jacobmetter/Active-Directory-Lab">Windows Active Directory Lab</a>|
+
 
 ## Tools
 
@@ -30,6 +32,8 @@ Throughout my time in the Army, I developed a passion for computers, networks, a
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    
 </div>
 
 ### SIEM
