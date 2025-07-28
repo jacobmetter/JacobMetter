@@ -53,6 +53,7 @@ Throughout my time in the Army, I developed a passion for computers, networks, a
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://github.com/jacobmetter/JacobMetter/blob/main/Cisco%20Certified%20Network%20Associate%20certificate(CCNA)%20%20-%20Jacob%20Metter.pdf"> <img src="https://img.shields.io/badge/CCNA-black?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges" /></a>
+<a href="https://www.credly.com/badges/8892123d-7530-4fbb-bea1-070ab7f0efed/public_url"> <img src="https://img.shields.io/badge/Splunk%20Certified%20Power%20User-blue?logo=splunk&logoColor=white)]" /></a>
 </div>
 
 ## Projects
